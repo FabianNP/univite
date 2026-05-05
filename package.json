@@ -13,7 +13,7 @@
   },
   "scripts": {
     "dev": "vite",
-     "build": "chmod +x node_modules/.bin/vite && vite build",
+    "build": "npm run build",
     "preview": "vite preview"
   }
 }
